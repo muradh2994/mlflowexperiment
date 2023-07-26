@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/DS%20Projects/Mine/mlflow/mlruns/0/89b7a5be75c34cffadf0118e79109289/artifacts
+end_time: 1690379296939
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 89b7a5be75c34cffadf0118e79109289
+run_name: bustling-skunk-21
+run_uuid: 89b7a5be75c34cffadf0118e79109289
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1690379292238
+status: 3
+tags: []
+user_id: fayas
